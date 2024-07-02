@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gefvknk8x-nodejs-repository
+spec:
+  url: https://github.com/testrhtaporg/gefvknk8x-nodejs
